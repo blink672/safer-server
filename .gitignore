@@ -30,3 +30,7 @@ npm-debug.log*
 # dotenv environment variables file
 *.env
 .DS_Store
+
+#Firebase Keys
+server/Firebase/firebase-key.json
+server/Firebase/fcm-server-key.js
